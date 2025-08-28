@@ -1,0 +1,67 @@
+[INFO] 2025-08-28 18:24:16,657 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-08-28 18:25:14,742 django.request: Not Found: /api/applicants/
+[WARNING] 2025-08-28 18:25:17,056 django.request: Not Found: /api/applicants/
+[WARNING] 2025-08-28 18:25:18,289 django.request: Not Found: /api/applicants/
+[WARNING] 2025-08-28 18:25:21,593 django.request: Not Found: /api/applications/
+[WARNING] 2025-08-28 18:25:30,151 django.security.SuspiciousSession: Session data corrupted
+[WARNING] 2025-08-28 18:25:30,413 django.security.SuspiciousSession: Session data corrupted
+[INFO] 2025-08-28 18:25:54,495 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-08-28 18:26:15,977 django.utils.autoreload: C:\Users\mintesinot\loan_api\loanapi\urls.py changed, reloading.
+[INFO] 2025-08-28 18:26:16,753 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-08-28 18:28:35,096 django.utils.autoreload: C:\Users\mintesinot\loan_api\loanapi\urls.py changed, reloading.
+[INFO] 2025-08-28 18:28:39,238 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-08-28 18:28:48,339 django.utils.autoreload: C:\Users\mintesinot\loan_api\loanapi\urls.py changed, reloading.
+[INFO] 2025-08-28 18:28:49,038 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-08-28 18:29:10,353 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-08-28 18:29:15,349 django.request: Not Found: /
+[WARNING] 2025-08-28 18:29:34,883 django.security.SuspiciousSession: Session data corrupted
+[WARNING] 2025-08-28 18:29:44,391 django.security.SuspiciousSession: Session data corrupted
+[WARNING] 2025-08-28 18:30:33,639 django.security.SuspiciousSession: Session data corrupted
+[INFO] 2025-08-29 00:09:15,728 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-08-29 00:20:23,524 django.request: Forbidden: /api/applications/
+[WARNING] 2025-08-29 00:24:38,445 django.request: Not Found: /
+[WARNING] 2025-08-29 00:24:38,666 django.request: Not Found: /favicon.ico
+[WARNING] 2025-08-29 00:24:44,867 django.security.SuspiciousSession: Session data corrupted
+[WARNING] 2025-08-29 00:25:10,306 django.security.SuspiciousSession: Session data corrupted
+[WARNING] 2025-08-29 00:27:15,803 django.request: Forbidden: /api/applicants/
+[WARNING] 2025-08-29 00:28:00,811 django.request: Forbidden: /api/applicants/
+[INFO] 2025-08-29 00:28:53,747 django.utils.autoreload: C:\Users\mintesinot\loan_api\loanapi\settings.py changed, reloading.
+[INFO] 2025-08-29 00:28:55,152 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-08-29 00:29:00,070 django.request: Forbidden: /api/applicants/
+[INFO] 2025-08-29 00:31:42,658 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-08-29 00:31:47,310 django.request: Forbidden: /api/applicants/
+[INFO] 2025-08-29 00:34:00,506 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-08-29 00:34:49,598 django.request: Bad Request: /api/token/
+[WARNING] 2025-08-29 00:36:10,592 django.request: Bad Request: /api/token/
+[INFO] 2025-08-29 00:44:59,581 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-08-29 00:45:19,714 django.request: Unauthorized: /api/applicants/
+[WARNING] 2025-08-29 00:46:42,159 django.security.SuspiciousSession: Session data corrupted
+[WARNING] 2025-08-29 00:46:42,287 django.security.SuspiciousSession: Session data corrupted
+[WARNING] 2025-08-29 00:46:51,020 django.security.SuspiciousSession: Session data corrupted
+[WARNING] 2025-08-29 00:47:47,950 django.request: Unauthorized: /api/applicants/
+[WARNING] 2025-08-29 01:09:52,112 django.request: Bad Request: /api/token/
+[INFO] 2025-08-29 01:11:43,920 django.utils.autoreload: C:\Users\mintesinot\loan_api\loanapi\urls.py changed, reloading.
+[INFO] 2025-08-29 01:11:45,036 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-08-29 01:12:00,740 django.utils.autoreload: C:\Users\mintesinot\loan_api\loanapi\urls.py changed, reloading.
+[INFO] 2025-08-29 01:12:01,570 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-08-29 01:12:28,405 django.request: Bad Request: /api-token-auth/
+[INFO] 2025-08-29 01:20:06,953 django.utils.autoreload: C:\Users\mintesinot\loan_api\loanapi\urls.py changed, reloading.
+[INFO] 2025-08-29 01:20:08,065 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-08-29 01:20:10,989 django.utils.autoreload: C:\Users\mintesinot\loan_api\loanapi\urls.py changed, reloading.
+[INFO] 2025-08-29 01:20:11,943 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-08-29 01:24:02,857 django.request: Not Found: /api/token/\n
+[WARNING] 2025-08-29 01:26:10,709 django.request: Not Found: /api/token/\n
+[WARNING] 2025-08-29 01:26:57,570 django.request: Not Found: /api/token/\n
+[INFO] 2025-08-29 01:27:47,994 django.utils.autoreload: C:\Users\mintesinot\loan_api\loanapi\urls.py changed, reloading.
+[INFO] 2025-08-29 01:27:48,745 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-08-29 01:27:50,465 django.utils.autoreload: C:\Users\mintesinot\loan_api\loanapi\urls.py changed, reloading.
+[INFO] 2025-08-29 01:27:51,250 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-08-29 01:28:41,410 django.request: Not Found: /api/token/\n
+[WARNING] 2025-08-29 01:29:50,781 django.request: Not Found: /api/token/\n
+[WARNING] 2025-08-29 01:30:32,025 django.request: Bad Request: /api/token/
+[WARNING] 2025-08-29 01:31:48,209 django.request: Bad Request: /api/token/
+[WARNING] 2025-08-29 01:32:55,851 django.request: Method Not Allowed: /api/token/
+[WARNING] 2025-08-29 01:33:08,503 django.request: Bad Request: /api/token/
+[WARNING] 2025-08-29 01:36:19,375 django.request: Bad Request: /api/token/
+[WARNING] 2025-08-29 01:53:12,827 django.request: Bad Request: /api/token/
+[WARNING] 2025-08-29 01:53:46,989 django.request: Bad Request: /api/token/
