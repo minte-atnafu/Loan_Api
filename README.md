@@ -63,7 +63,7 @@ A Django REST Framework API for a microfinance company that processes loan appli
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/minte-atnafu/Loan_Api)
    cd loan-application-api
    ```
 
