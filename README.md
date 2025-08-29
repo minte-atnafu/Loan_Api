@@ -251,10 +251,6 @@ RISK_SERVICE_API_KEY=your-api-key
 5. **Input validation** at both serializer and model levels
 6. **Environment-based configuration** for sensitive data
 
-## 📝 License
-
-MIT License - see LICENSE file for details.
-
 ## 🤝 Contributing
 
 1. Fork the repository
